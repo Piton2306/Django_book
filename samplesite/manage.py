@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# 1. manage.py makemigrations bboard - создание миграции
+# 2. manage.py migrate - выполнить миграцию
